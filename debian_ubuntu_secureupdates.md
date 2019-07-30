@@ -1,5 +1,6 @@
 # Secure updates
-This is to enable support for secure updates
+This is to enable support for secure updates\
+Note: This is usually not necessary for e.g. ubuntu provided repositories that use other means of ensuring the packages you get are the ones you should get etc.
 
 ## Procedure
 
