@@ -1,7 +1,7 @@
 # References
-https://www.centos.org/forums/viewtopic.php?t=23995\
-https://www.centos.org/forums/viewtopic.php?t=56076\
-https://wiki.archlinux.org/index.php/Bluetooth_keyboard
+[CenotsForum URL1](https://www.centos.org/forums/viewtopic.php?t=23995)
+[CentosForum URL2](https://www.centos.org/forums/viewtopic.php?t=56076)
+[ArchWiki](https://wiki.archlinux.org/index.php/Bluetooth_keyboard)
 
 # Install bluez
 
