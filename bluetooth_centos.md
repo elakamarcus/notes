@@ -1,7 +1,10 @@
 # Install bluez
+
+```bash
 rpm -q bluez-gnome bluez-hcidump bluez-libs bluez-utils
 yum info bluez-gnome bluez-hcidump bluez-libs bluez-utils
 yum install bluez bluez-hcidump bluez-libs bluez-utils
+```
 
 # Find the device
 
